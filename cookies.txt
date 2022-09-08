@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+stockholm45.qodeinteractive.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+stockholm45.qodeinteractive.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_71e1cc7269a735be1002085e75b21027	23e2b9bfff8da020a738e0df42e5c3a3%7C%7C1662806326%7C%7C1662802726%7C%7C2a0a06c16870283ce27a4634e9326754
+.vimeo.com	TRUE	/	FALSE	1999999999	__cf_bm	1LGuOKafcI6E9xR9.z4oEpMCBJe3Cw5hS_Js1nH9HMg-1662633628-0-ARPsufGXzaaVVAlAFUk5A4zgvxXNbwyxTlDeZ1hJjM10pQSoOmprUJg6MCeBABks1LyT7db9xTbS28AFkEe/5Jw=
+player.vimeo.com	TRUE	/	FALSE	1999999999	SameSite	None
+stockholm45.qodeinteractive.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	4305821e8d01936e2abc54415acb62f9
+
